@@ -1,0 +1,3221 @@
+{
+  "data": [
+    [
+      "Hand Torch",
+      "4",
+      "Torch Seed",
+      "Cave Dirt Seed",
+      "<img src='img/rarity/4/Hand Torch.webp' width='50px' height='50px'>",
+      "3m 4s"
+    ],
+    [
+      "Pastel Pants",
+      "4",
+      "Daisy Seed",
+      "Magic Egg",
+      "<img src='img/rarity/4/Pastel Pants.webp' width='50px' height='50px'>",
+      "3m 4s"
+    ],
+    [
+      "Stinky Socks",
+      "4",
+      "Mushroom Seed",
+      "Dirt Seed",
+      "<img src='img/rarity/4/Stinky Socks.webp' width='50px' height='50px'>",
+      "3m 4s"
+    ],
+    [
+      "Tan Shirt",
+      "4",
+      "Dirt Seed",
+      "Rock Background Seed",
+      "<img src='img/rarity/4/Tan Shirt.webp' width='50px' height='50px'>",
+      "3m 4s"
+    ],
+    [
+      "Boots",
+      "5",
+      "Rock Seed",
+      "Black Block Seed",
+      "<img src='img/rarity/5/Boots.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Brown Hair",
+      "5",
+      "Dirt Seed",
+      "Brown Block Seed",
+      "<img src='img/rarity/5/Brown Hair.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Brown Shoes",
+      "5",
+      "Cave Background Seed",
+      "Brown Block Seed",
+      "<img src='img/rarity/5/Brown Shoes.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Cowboy Boots",
+      "5",
+      "Transmog Crystal (×1),",
+      "Boots (×1) and Death Spikes (×20).",
+      "<img src='img/rarity/5/Cowboy Boots.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Hot Head",
+      "5",
+      "Lava Seed",
+      "Red Block Seed",
+      "<img src='img/rarity/5/Hot Head.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Messy Brown Hair",
+      "5",
+      "Crappy Sign Seed",
+      "Grass Seed",
+      "<img src='img/rarity/5/Messy Brown Hair.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Santa Pants",
+      "5",
+      "Lava Seed",
+      "Grey Block Seed",
+      "<img src='img/rarity/5/Santa Pants.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Shallot Mustache",
+      "5",
+      "Mushroom Seed",
+      "Grass Seed",
+      "<img src='img/rarity/5/Shallot Mustache.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Worthless Rags",
+      "5",
+      "Dirt Seed",
+      "Mud Glob Seed",
+      "<img src='img/rarity/5/Worthless Rags.webp' width='50px' height='50px'>",
+      "4m 35s"
+    ],
+    [
+      "Axolotl Hoodie",
+      "6",
+      "Pastel Pink Block Seed",
+      "Magic Infused Stone Seed",
+      "<img src='img/rarity/6/Axolotl Hoodie.webp' width='50px' height='50px'>",
+      "6m 36s"
+    ],
+    [
+      "Biker Stache",
+      "6",
+      "Brown Block Seed",
+      "Grass Seed",
+      "<img src='img/rarity/6/Biker Stache.webp' width='50px' height='50px'>",
+      "6m 36s"
+    ],
+    [
+      "Black Pants",
+      "6",
+      "Door Seed",
+      "Black Block Seed",
+      "<img src='img/rarity/6/Black Pants.webp' width='50px' height='50px'>",
+      "6m 36s"
+    ],
+    [
+      "Jeans",
+      "6",
+      "Aqua Block Seed",
+      "Rock Seed",
+      "<img src='img/rarity/6/Jeans.webp' width='50px' height='50px'>",
+      "6m 36s"
+    ],
+    [
+      "Red Hair",
+      "6",
+      "Grass Seed",
+      "Red Block Seed",
+      "<img src='img/rarity/6/Red Hair.webp' width='50px' height='50px'>",
+      "6m 36s"
+    ],
+    [
+      "Shades",
+      "6",
+      "Black Block Seed",
+      "Glass Pane Seed",
+      "<img src='img/rarity/6/Shades.webp' width='50px' height='50px'>",
+      "6m 36s"
+    ],
+    [
+      "Green Shirt",
+      "7",
+      "Grass Seed",
+      "Green Block Seed",
+      "<img src='img/rarity/7/Green Shirt.webp' width='50px' height='50px'>",
+      "9m 13s"
+    ],
+    [
+      "Pastel Dress - Pink",
+      "7",
+      "Pastel Pink Flower Block Seed",
+      "Magic Egg",
+      "<img src='img/rarity/7/Pastel Dress - Pink.webp' width='50px' height='50px'>",
+      "9m 13s"
+    ],
+    [
+      "Red Riding Hood",
+      "7",
+      "Red Block Seed",
+      "Mushroom Seed",
+      "<img src='img/rarity/7/Red Riding Hood.webp' width='50px' height='50px'>",
+      "9m 13s"
+    ],
+    [
+      "Santa Vest",
+      "7",
+      "Lava Seed",
+      "White Block Seed",
+      "<img src='img/rarity/7/Santa Vest.webp' width='50px' height='50px'>",
+      "9m 13s"
+    ],
+    [
+      "Top Hat",
+      "7",
+      "Black Block Seed",
+      "Mushroom Seed",
+      "<img src='img/rarity/7/Top Hat.webp' width='50px' height='50px'>",
+      "9m 13s"
+    ],
+    [
+      "Tuxedo",
+      "7",
+      "Grey Block Seed",
+      "Green",
+      "<img src='img/rarity/7/Tuxedo.webp' width='50px' height='50px'>",
+      "9m 13s"
+    ],
+    [
+      "Blonde Bombshell",
+      "8",
+      "Yellow Block Seed",
+      "Grass Seed",
+      "<img src='img/rarity/8/Blonde Bombshell.webp' width='50px' height='50px'>",
+      "12m 32s"
+    ],
+    [
+      "Bunny Mask",
+      "8",
+      "Magic Egg",
+      "Flowery Wallpaper Seed",
+      "<img src='img/rarity/8/Bunny Mask.webp' width='50px' height='50px'>",
+      "12m 32s"
+    ],
+    [
+      "Burglar Mask",
+      "8",
+      "Cave Background Seed",
+      "Brick Background Seed",
+      "<img src='img/rarity/8/Burglar Mask.webp' width='50px' height='50px'>",
+      "12m 32s"
+    ],
+    [
+      "Long Brown Hair",
+      "8",
+      "Wooden Table Seed",
+      "Grass Seed",
+      "<img src='img/rarity/8/Long Brown Hair.webp' width='50px' height='50px'>",
+      "12m 32s"
+    ],
+    [
+      "Pastel Dress - Aqua",
+      "8",
+      "Magic Egg",
+      "Pastel Aqua Flower Block Seed",
+      "<img src='img/rarity/8/Pastel Dress - Aqua.webp' width='50px' height='50px'>",
+      "12m 32s"
+    ],
+    [
+      "Pastel Dress - Green",
+      "8",
+      "Magic Egg",
+      "Pastel Green Flower Block Seed",
+      "<img src='img/rarity/8/Pastel Dress - Green.webp' width='50px' height='50px'>",
+      "12m 32s"
+    ],
+    [
+      "X-Ray Specs",
+      "8",
+      "Glass Pane Seed",
+      "White Block Seed",
+      "<img src='img/rarity/8/X-Ray Specs.webp' width='50px' height='50px'>",
+      "12m 32s"
+    ],
+    [
+      "Flower Sarong",
+      "9",
+      "Pastel Pink Flower Block Seed",
+      "Rose Seed",
+      "<img src='img/rarity/9/Flower Sarong.webp' width='50px' height='50px'>",
+      "16m 39s"
+    ],
+    [
+      "Pastel Dress - Yellow",
+      "9",
+      "Magic Egg",
+      "Pastel Yellow Flower Block Seed",
+      "<img src='img/rarity/9/Pastel Dress - Yellow.webp' width='50px' height='50px'>",
+      "16m 39s"
+    ],
+        [
+      "Viking Helmet",
+      "9",
+      "Stone Wall Seed",
+      "Pointy Sign Seed",
+      "<img src='img/rarity/9/Viking Helmet.webp' width='50px' height='50px'>",
+      "16m 39s"
+    ],
+    [
+      "Bunny Tail",
+      "10",
+      "Bush Seed",
+      "Magic Egg",
+      "<img src='img/rarity/10/Bunny Tail.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Cyclopean Visor",
+      "10",
+      "Window Seed",
+      "Red Block Seed",
+      "<img src='img/rarity/10/Cyclopean Visor.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Elf Hat",
+      "10",
+      "Transmog Crystal (×1) ",
+      "Santa Hat (×1) and Green Block (×20).",
+      "<img src='img/rarity/10/Elf Hat.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Flashlight",
+      "10",
+      "Black Block Seed",
+      "Yellow Block Seed",
+      "<img src='img/rarity/10/Flashlight.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Futuristic Sunglasses",
+      "10",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/10/Futuristic Sunglasses.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Lovely Pink Dress",
+      "10",
+      "Flowery Wallpaper Seed",
+      "Mushroom Seed",
+      "<img src='img/rarity/10/Lovely Pink Dress.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Messy Auburn Tresses",
+      "10",
+      "Red Bricks Seed",
+      "Crappy Sign Seed",
+      "<img src='img/rarity/10/Messy Auburn Tresses.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Referee Shirt",
+      "10",
+      "Black Block Seed",
+      "White Block Seed",
+      "<img src='img/rarity/10/Referee Shirt.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Santa Hat",
+      "10",
+      "Red Block Seed",
+      "White Block Seed",
+      "<img src='img/rarity/10/Santa Hat.webp' width='50px' height='50px'>",
+      "21m 40s"
+    ],
+    [
+      "Asbestos Boots",
+      "11",
+      "Evil Bricks Seed",
+      "Yellow Block Seed",
+      "<img src='img/rarity/11/Asbestos Boots.webp' width='50px' height='50px'>",
+      "27m 41s"
+    ],
+    [
+      "Flat-top",
+      "11",
+      "Rock Platform Seed",
+      "Wooden Table Seed",
+      "<img src='img/rarity/11/Flat-top.webp' width='50px' height='50px'>",
+      "27m 41s"
+    ],
+    [
+      "Green Skirt",
+      "11",
+      "Poppy Seed",
+      "Green Block Seed",
+      "<img src='img/rarity/11/Green Skirt.webp' width='50px' height='50px'>",
+      "27m 41s"
+    ],
+    [
+      "Pastel Suit",
+      "11",
+      "Painting: Dink Duck Seed",
+      "Magic Egg",
+      "<img src='img/rarity/11/Pastel Suit.webp' width='50px' height='50px'>",
+      "27m 41s"
+    ],
+    [
+      "Patent Leather Shoes",
+      "11",
+      "Brick Background Seed",
+      "Grey Block Seed",
+      "<img src='img/rarity/11/Patent Leather Shoes.webp' width='50px' height='50px'>",
+      "27m 41s"
+    ],
+    [
+      "Sword",
+      "11",
+      "Death Spikes Seed",
+      "Rock Background Seed",
+      "<img src='img/rarity/11/Sword.webp' width='50px' height='50px'>",
+      "27m 41s"
+    ],
+    [
+      "Baseball Bat",
+      "12",
+      "House Entrance Seed",
+      "Sign Seed",
+      "<img src='img/rarity/12/Baseball Bat.webp' width='50px' height='50px'>",
+      "34m 48s"
+    ],
+    [
+      "Gambler's Visor",
+      "12",
+      "Green Block Seed",
+      "Glass Block Seed",
+      "<img src='img/rarity/12/Gamblers Visor.webp' width='50px' height='50px'>",
+      "34m 48s"
+    ],
+    [
+      "Gold-Rimmed Glasses",
+      "12",
+      "Window Seed",
+      "Yellow Block Seed",
+      "<img src='img/rarity/12/Gold-Rimmed Glasses.webp' width='50px' height='50px'>",
+      "34m 48s"
+    ],
+    [
+      "Pastel Dress - Orange",
+      "12",
+      "Pastel Orange Flower Block Seed",
+      "Magic Egg",
+      "<img src='img/rarity/12/Pastel Dress - Orange.webp' width='50px' height='50px'>",
+      "34m 48s"
+    ],
+    [
+      "Pigtails",
+      "12",
+      "Orange Block Seed",
+      "Daisy Seed",
+      "<img src='img/rarity/12/Pigtails.webp' width='50px' height='50px'>",
+      "34m 48s"
+    ],
+    [
+      "Rooster Hat",
+      "12",
+      "White Block Seed",
+      "Yellow Block Seed",
+      "<img src='img/rarity/12/Rooster Hat.webp' width='50px' height='50px'>",
+      "34m 48s"
+    ],
+    [
+      "Afro",
+      "13",
+      "Black Block Seed",
+      "Bush Seed",
+      "<img src='img/rarity/13/Afro.webp' width='50px' height='50px'>",
+      "43m 7s"
+    ],
+    [
+      "Baseball Cap",
+      "13",
+      "Bush Seed",
+      "Wooden Platform Seed",
+      "<img src='img/rarity/13/Baseball Cap.webp' width='50px' height='50px'>",
+      "43m 7s"
+    ],
+    [
+      "Red Coat",
+      "13",
+      "Red Block Seed",
+      "Bush Seed",
+      "<img src='img/rarity/13/Red Coat.webp' width='50px' height='50px'>",
+      "43m 7s"
+    ],
+    [
+      "Shredded T-Shirt",
+      "13",
+      "Devil Horns Seed",
+      "Grey Block Seed",
+      "<img src='img/rarity/13/Shredded T-Shirt.webp' width='50px' height='50px'>",
+      "43m 7s"
+    ],
+    [
+      "Briefcase",
+      "14",
+      "Brown Block Seed",
+      "Stripey Wallpaper Seed",
+      "<img src='img/rarity/14/Briefcase.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Clown Nose",
+      "14",
+      "Tomato Seed",
+      "Happy Joy Plaque Seed",
+      "<img src='img/rarity/14/Clown Nose.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Froghat",
+      "14",
+      "Aqua Block Seed",
+      "Bush Seed",
+      "<img src='img/rarity/14/Froghat.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Green Blouse",
+      "14",
+      "Bush Seed",
+      "Green Block Seed",
+      "<img src='img/rarity/14/Green Blouse.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Leopard Leggings",
+      "14",
+      "Pastel Orange Block Seed",
+      "Cliffside Seed",
+      "<img src='img/rarity/14/Leopard Leggings.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Long Blonde Bangs",
+      "14",
+      "Sandstone Wall Seed",
+      "Big Old Down Arrow Seed",
+      "<img src='img/rarity/14/Long Blonde Bangs.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Monster Feet",
+      "14",
+      "Devil Horns Seed",
+      "Green Block Seed",
+      "<img src='img/rarity/14/Monster Feet.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Platinum Blonde Hair",
+      "14",
+      "White Block Seed",
+      "Pastel Yellow Flower Block Seed",
+      "<img src='img/rarity/14/Platinum Blonde Hair.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Spikey Hair",
+      "14",
+      "Death Spikes Seed",
+      "Yellow Block Seed",
+      "<img src='img/rarity/14/Spikey Hair.webp' width='50px' height='50px'>",
+      "52m 44s"
+    ],
+    [
+      "Checkered Espadrille",
+      "15",
+      "Wooden Platform Seed",
+      "Checker Wallpaper Seed",
+      "<img src='img/rarity/15/Checkered Espadrille.webp' width='50px' height='50px'>",
+      "1h 3m 45s"
+    ],
+    [
+      "Snorkel",
+      "15",
+      "Bathtub Seed",
+      "Glass Pane Seed",
+      "<img src='img/rarity/15/Snorkel.webp' width='50px' height='50px'>",
+      "1h 3m 45s"
+    ],
+    [
+      "Zombie-Stompin' Boots",
+      "15",
+      "Grimstone Seed",
+      "Death Spikes Seed",
+      "<img src='img/rarity/15/Zombie-Stompin Boots.webp' width='50px' height='50px'>",
+      "1h 3m 45s"
+    ],
+    [
+      "Big Glasses",
+      "16",
+      "Window Seed",
+      "Wooden Window Seed",
+      "<img src='img/rarity/16/Big Glasses.webp' width='50px' height='50px'>",
+      "1h 16m 16s"
+    ],
+    [
+      "Bunny Ears",
+      "16",
+      "Polka Dot Block Seed",
+      "Magic Egg",
+      "<img src='img/rarity/16/Bunny Ears.webp' width='50px' height='50px'>",
+      "1h 16m 16s"
+    ],
+    [
+      "Just One Boxing Glove",
+      "16",
+      "Blueberry Seed",
+      "Red Block Seed",
+      "<img src='img/rarity/16/Just One Boxing Glove.webp' width='50px' height='50px'>",
+      "1h 16m 16s"
+    ],
+    [
+      "Backpack",
+      "17",
+      "Super Crate Box Seed",
+      "Bed Seed",
+      "<img src='img/rarity/17/Backpack.webp' width='50px' height='50px'>",
+      "1h 30m 23s"
+    ],
+    [
+      "Cosmic Hair",
+      "17",
+      "Starseed",
+      "Pastel Green Flower Block Seed",
+      "<img src='img/rarity/17/Cosmic Hair.webp' width='50px' height='50px'>",
+      "1h 30m 23s"
+    ],
+    [
+      "Long Black Bangs",
+      "17",
+      "Black Block Seed",
+      "Big Old Down Arrow Seed",
+      "<img src='img/rarity/17/Long Black Bangs.webp' width='50px' height='50px'>",
+      "1h 30m 23s"
+    ],
+    [
+      "Pickaxe",
+      "17",
+      "Portcullis Seed",
+      "Cave Background Seed",
+      "<img src='img/rarity/17/Pickaxe.webp' width='50px' height='50px'>",
+      "1h 30m 23s"
+    ],
+    [
+      "Clown Pants",
+      "18",
+      "Polka Dot Block Seed",
+      "Happy Joy Plaque Seed",
+      "<img src='img/rarity/18/Clown Pants.webp' width='50px' height='50px'>",
+      "1h 46m 12s"
+    ],
+    [
+      "Pastel Dress - Blue",
+      "18",
+      "Magic Egg",
+      "Pastel Blue Flower Block Seed",
+      "<img src='img/rarity/18/Pastel Dress - Blue.webp' width='50px' height='50px'>",
+      "1h 46m 12s"
+    ],
+    [
+      "Sexy Boxers",
+      "18",
+      "Polka Dot Block Seed",
+      "Rose Seed",
+      "<img src='img/rarity/18/Sexy Boxers.webp' width='50px' height='50px'>",
+      "1h 46m 12s"
+    ],
+    [
+      "Ski Cap",
+      "18",
+      "Mushroom Seed",
+      "Blue Block Seed",
+      "<img src='img/rarity/18/Ski Cap.webp' width='50px' height='50px'>",
+      "1h 46m 12s"
+    ],
+    [
+      "Grey Hair Bun",
+      "19",
+      "Grey Block Seed",
+      "Olde Timey Radio Seed",
+      "<img src='img/rarity/19/Grey Hair Bun.webp' width='50px' height='50px'>",
+      "2h 3m 49s"
+    ],
+    [
+      "Old-Timey Hat",
+      "19",
+      "Olde Timey Radio Seed",
+      "Brown Block Seed",
+      "<img src='img/rarity/19/Old-Timey Hat.webp' width='50px' height='50px'>",
+      "2h 3m 49s"
+    ],
+    [
+      "Red Sweatpants",
+      "19",
+      "Big Old Down Arrow Seed",
+      "White Block Seed",
+      "<img src='img/rarity/19/Red Sweatpants.webp' width='50px' height='50px'>",
+      "2h 3m 49s"
+    ],
+    [
+      "Long Black Hair",
+      "20",
+      "Black Block Seed",
+      "Portcullis Seed",
+      "<img src='img/rarity/20/Long Black Hair.webp' width='50px' height='50px'>",
+      "2h 23m 20s"
+    ],
+    [
+      "Barky`s Mask",
+      "21",
+      "Barrel Seed",
+      "Painting: Yerfdog Seed",
+      "<img src='img/rarity/21/Barkys Mask.webp' width='50px' height='50px'>",
+      "2h 44m 51s"
+    ],
+    [
+      "Disguise Glasses",
+      "21",
+      "Window Seed",
+      "Secret Passage Seed",
+      "<img src='img/rarity/21/Disguise Glasses.webp' width='50px' height='50px'>",
+      "2h 44m 51s"
+    ],
+    [
+      "Firefighter Jacket - Yellow",
+      "22",
+      "Big Old Sideways Arrow Seed",
+      "Orange Block Seed",
+      "<img src='img/rarity/22/Firefighter Jacket - Yellow.webp' width='50px' height='50px'>",
+      "3h 8m 28s"
+    ],
+    [
+      "Firefighter Pants - Yellow",
+      "22",
+      "Big Old Down Arrow Seed",
+      "Orange Block Seed",
+      "<img src='img/rarity/22/Firefighter Pants - Yellow.webp' width='50px' height='50px'>",
+      "3h 8m 28s"
+    ],
+    [
+      "Lumber Axe",
+      "22",
+      "Dark Brown Block Seed",
+      "Dark Grey Block Seed",
+      "<img src='img/rarity/22/Lumber Axe.webp' width='50px' height='50px'>",
+      "3h 8m 28s"
+    ],
+    [
+      "Muscle Suit",
+      "22",
+      "Western Banner Seed",
+      "Pastel Yellow Flower Block Seed",
+      "<img src='img/rarity/22/Muscle Suit.webp' width='50px' height='50px'>",
+      "3h 8m 28s"
+    ],
+    [
+      "Pastel Dress - Purple",
+      "22",
+      "Magic Egg",
+      "Pastel Purple Flower Block Seed",
+      "<img src='img/rarity/22/Pastel Dress - Purple.webp' width='50px' height='50px'>",
+      "3h 8m 28s"
+    ],
+    [
+      "Purple Bikini Top",
+      "22",
+      "Purple Block Seed",
+      "Rose Seed",
+      "<img src='img/rarity/22/Purple Bikini Top.webp' width='50px' height='50px'>",
+      "3h 8m 28s"
+    ],
+    [
+      "Bridal Veil",
+      "23",
+      "Screen Door Seed",
+      "White Block Seed",
+      "<img src='img/rarity/23/Bridal Veil.webp' width='50px' height='50px'>",
+      "3h 34m 17s"
+    ],
+    [
+      "Cosmic Mustache",
+      "23",
+      "StarSeed",
+      "Twisted Spike Seed",
+      "<img src='img/rarity/23/Cosmic Mustache.webp' width='50px' height='50px'>",
+      "3h 34m 17s"
+    ],
+    [
+      "Cowboy Hat",
+      "23",
+      "Sand Seed",
+      "Big Old Up Arrow Seed",
+      "<img src='img/rarity/23/Cowboy Hat.webp' width='50px' height='50px'>",
+      "3h 34m 17s"
+    ],
+    [
+      "Hippie Sandals",
+      "23",
+      "Magic Egg",
+      "Wall Like An Egyptian Seed",
+      "<img src='img/rarity/23/Hippie Sandals.webp' width='50px' height='50px'>",
+      "3h 34m 17s"
+    ],
+    [
+      "Fuzzy Bikini Top",
+      "24",
+      "Brown Block Seed",
+      "Outie Block Seed",
+      "<img src='img/rarity/24/Fuzzy Bikini Top.webp' width='50px' height='50px'>",
+      "4h 2m 24s"
+    ],
+    [
+      "Ginger Hair Bun",
+      "24",
+      "Red Wood Wall Seed",
+      "Dark Orange Seed",
+      "<img src='img/rarity/24/Ginger Hair Bun.webp' width='50px' height='50px'>",
+      "4h 2m 24s"
+    ],
+    [
+      "Preppy Blonde Hair",
+      "24",
+      "Churo Block Seed",
+      "Number Block Seed",
+      "<img src='img/rarity/24/Preppy Blonde Hair.webp' width='50px' height='50px'>",
+      "4h 2m 24s"
+    ],
+    [
+      "Purple Thong",
+      "24",
+      "Purple Block Seed",
+      "Danger Sign Seed",
+      "<img src='img/rarity/24/Purple Thong.webp' width='50px' height='50px'>",
+      "4h 2m 24s"
+    ],
+    [
+      "Checkered Pajamas",
+      "25",
+      "Checker Wallpaper Seed",
+      "Bed Seed",
+      "<img src='img/rarity/25/Checkered Pajamas.webp' width='50px' height='50px'>",
+      "4h 32m 55s"
+    ],
+    [
+      "Sabertooth-Skin Toga",
+      "25",
+      "Pastel Orange Block Seed",
+      "Polka Dot Block Seed",
+      "<img src='img/rarity/25/Sabertooth-Skin Toga.webp' width='50px' height='50px'>",
+      "4h 32m 55s"
+    ],
+    [
+      "Tie Dyed Shirt",
+      "26",
+      "Polkadot Block Seed",
+      "Checker Wallpaper Seed",
+      "<img src='img/rarity/26/Tie Dyed Shirt.webp' width='50px' height='50px'>",
+      "5h 5m 56s"
+    ],
+    [
+      "Clown Shoes",
+      "27",
+      "Rubber Ducky Seed",
+      "Red Block Seed",
+      "<img src='img/rarity/27/Clown Shoes.webp' width='50px' height='50px'>",
+      "5h 41m 33s"
+    ],
+    [
+      "Pastel Tie",
+      "27",
+      "Magic Egg",
+      "Ladder Seed",
+      "<img src='img/rarity/27/Pastel Tie.webp' width='50px' height='50px'>",
+      "5h 41m 33s"
+    ],
+    [
+      "Peplum Top",
+      "27",
+      "Pastel Blue Wallpaper Seed",
+      "Flowery Wallpaper Seed",
+      "<img src='img/rarity/27/Peplum Top.webp' width='50px' height='50px'>",
+      "5h 41m 33s"
+    ],
+    [
+      "Pitchfork",
+      "27",
+      "Wrought-Iron Fence Seed",
+      "Crappy Sign Seed",
+      "<img src='img/rarity/27/Pitchfork.webp' width='50px' height='50px'>",
+      "5h 41m 33s"
+    ],
+    [
+      "Red Sportsball Jersey",
+      "28",
+      "Big Old Up Arrow Seed",
+      "White Block Seed",
+      "<img src='img/rarity/28/Red Sportsball Jersey.webp' width='50px' height='50px'>",
+      "6h 19m 52s"
+    ],
+    [
+      "Comet Shirt",
+      "29",
+      "For Sale Sign Seed",
+      "Starseed",
+      "<img src='img/rarity/29/Comet Shirt.webp' width='50px' height='50px'>",
+      "7h 0m 59s"
+    ],
+    [
+      "Jodhpurs",
+      "29",
+      "Sandstone Seed",
+      "Window Curtains Seed",
+      "<img src='img/rarity/29/Jodhpurs.webp' width='50px' height='50px'>",
+      "7h 0m 59s"
+    ],
+    [
+      "Peg Leg",
+      "29",
+      "Rubber Ducky Seed",
+      "Wooden Table Seed",
+      "<img src='img/rarity/29/Peg Leg.webp' width='50px' height='50px'>",
+      "7h 0m 59s"
+    ],
+    [
+      "Pink Hair Bow",
+      "29",
+      "Pastel Pink Flower Block Seed",
+      "Bubble Gum Seed",
+      "<img src='img/rarity/29/Pink Hair Bow.webp' width='50px' height='50px'>",
+      "7h 0m 59s"
+    ],
+    [
+      "Starchild Makeup",
+      "29",
+      "Blue Star Wallpaper Seed",
+      "Checker Wallpaper Seed",
+      "<img src='img/rarity/29/Starchild Makeup.webp' width='50px' height='50px'>",
+      "7h 0m 59s"
+    ],
+    [
+      "Hot Pink Highlights",
+      "30",
+      "Neon Lights Seed",
+      "Black Block Seed",
+      "<img src='img/rarity/30/Hot Pink Highlights.webp' width='50px' height='50px'>",
+      "7h 45m 0s"
+    ],
+    [
+      "Kansas Curls",
+      "30",
+      "Pastel Yellow Block Seed",
+      "Rubber Ducky Seed",
+      "<img src='img/rarity/30/Kansas Curls.webp' width='50px' height='50px'>",
+      "7h 45m 0s"
+    ],
+    [
+      "Blue Skirt",
+      "31",
+      "Blue Block Seed",
+      "Pastel Blue Block Seed",
+      "<img src='img/rarity/31/Blue Skirt.webp' width='50px' height='50px'>",
+      "8h 32m 1s"
+    ],
+    [
+      "Face Bandana",
+      "31",
+      "Polka Dot Block Seed",
+      "Pastel Blue Block Seed",
+      "<img src='img/rarity/31/Face Bandana.webp' width='50px' height='50px'>",
+      "8h 32m 1s"
+    ],
+    [
+      "Firefighter Helmet - Yellow",
+      "31",
+      "Big Old Up Arrow Seed",
+      "Orange Block Seed",
+      "<img src='img/rarity/31/Firefighter Helmet - Yellow.webp' width='50px' height='50px'>",
+      "8h 32m 1s"
+    ],
+    [
+      "Lollipop",
+      "31",
+      "Blueberry Seed",
+      "Purple Block Seed",
+      "<img src='img/rarity/31/Lollipop.webp' width='50px' height='50px'>",
+      "8h 32m 1s"
+    ],
+    [
+      "Stinky Bucket",
+      "32",
+      "Blueberry Seed",
+      "Purple Block Seed",
+      "<img src='img/rarity/32/Stinky Bucket.webp' width='50px' height='50px'>",
+      "8h 32m 1s"
+    ],
+    [
+      "3D Glasses",
+      "33",
+      "Red Glass Block Seed",
+      "Blue Glass Block Seed",
+      "<img src='img/rarity/33/3D Glasses.webp' width='50px' height='50px'>",
+      "10h 15m 27s"
+    ],
+    [
+      "Showgirl Leggings",
+      "33",
+      "Blue Star Wallpaper Seed",
+      "Lattice Background Seed",
+      "<img src='img/rarity/33/Showgirl Leggings.webp' width='50px' height='50px'>",
+      "10h 15m 27s"
+    ],
+    [
+      "Blue Wristband",
+      "34",
+      "Race Start Flag Seed",
+      "Blueberry Seed",
+      "<img src='img/rarity/34/Blue Wristband.webp' width='50px' height='50px'>",
+      "11h 12m 4s"
+    ],
+    [
+      "Fuzzy Bikini Bottom",
+      "34",
+      "Brown Block Seed",
+      "Innie Block Seed",
+      "<img src='img/rarity/34/Fuzzy Bikini Bottom.webp' width='50px' height='50px'>",
+      "11h 12m 4s"
+    ],
+    [
+      "Showgirl Headdress",
+      "34",
+      "Blue Star Wallpaper Seed",
+      "Portcullis Seed",
+      "<img src='img/rarity/34/Showgirl Headdress.webp' width='50px' height='50px'>",
+      "11h 12m 4s"
+    ],
+    [
+      "Comet Pants ",
+      "35",
+      "Starseed",
+      "Puzzle Brick Seed",
+      "<img src='img/rarity/35/Comet Pants.webp' width='50px' height='50px'>",
+      "12h 12m 5s"
+    ],
+    [
+      "Slick Black Hair",
+      "35",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/35/Slick Black Hair.webp' width='50px' height='50px'>",
+      "12h 12m 5s"
+    ],
+    [
+      "Antler Hat",
+      "36",
+      "Cuzco Wall Mount Seed",
+      "Das Red Balloon Seed",
+      "<img src='img/rarity/36/Antler Hat.webp' width='50px' height='50px'>",
+      "13h 15m 36s(Heart Size 6 Required [winterfest])"
+    ],
+    [
+      "Jetpack",
+      "36",
+      "Lava Seed",
+      "Steel Block Seed",
+      "<img src='img/rarity/36/Jetpack.webp' width='50px' height='50px'>",
+      "13h 15m 36s"
+    ],
+    [
+      "Purple Mohawk",
+      "36",
+      "Purple Block Seed",
+      "Picket Fence Seed",
+      "<img src='img/rarity/36/Purple Mohawk.webp' width='50px' height='50px'>",
+      "13h 15m 36s"
+    ],
+    [
+      "Shocking Hair",
+      "36",
+      "Chemical G (×30)",
+      "Chemical R (×4) and Chemical B (×1)",
+      "<img src='img/rarity/36/Shocking Hair.webp' width='50px' height='50px'>",
+      "13h 15m 36s"
+    ],
+    [
+      "Winter Scarf",
+      "36",
+      "Snowy Rocks Seed",
+      "Aqua Block Seed",
+      "<img src='img/rarity/36/Winter Scarf.webp' width='50px' height='50px'>",
+      "13h 15m 36s"
+    ],
+    [
+      "Long Full Bangs",
+      "37",
+      "Long Black Hair Seed",
+      "Long Black Bangs Seed",
+      "<img src='img/rarity/37/Long Full Bangs.webp' width='50px' height='50px'>",
+      "14h 22m 43s"
+    ],
+    [
+      "Red Sun Dress",
+      "37",
+      "Solar Panel Seed",
+      "Red Block Seed",
+      "<img src='img/rarity/37/Red Sun Dress.webp' width='50px' height='50px'>",
+      "14h 22m 43s"
+    ],
+    [
+      "Sushi Knife",
+      "39",
+      "Iron Bars Seed",
+      "Twisted Spikes Seed",
+      "<img src='img/rarity/39/Sushi Knife.webp' width='50px' height='50px'>",
+      "16h 48m 9s"
+    ],
+    [
+      "Ponytail",
+      "40",
+      "School Desk Seed",
+      "Rustic Fence Seed",
+      "<img src='img/rarity/40/Ponytail.webp' width='50px' height='50px'>",
+      "18h 6m 40s"
+    ],
+    [
+      "Vamp Vest",
+      "40",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/40/Vamp Vest.webp' width='50px' height='50px'>",
+      "18h 6m 40s"
+    ],
+    [
+      "Bushy Beard",
+      "41",
+      "Sequoia Tree Seed",
+      "Bush Seed",
+      "<img src='img/rarity/41/Bushy Beard.webp' width='50px' height='50px'>",
+      "19h 29m 11s"
+    ],
+    [
+      "Climbing Boots",
+      "41",
+      "Climbing Wall Seed",
+      "Stalactite Seed",
+      "<img src='img/rarity/41/Climbing Boots.webp' width='50px' height='50px'>",
+      "19h 29m 11s"
+    ],
+    [
+      "Poodle Skirt",
+      "41",
+      "Das Red Balloon Seed",
+      "Dreamstone Block Seed",
+      "<img src='img/rarity/41/Poodle Skirt.webp' width='50px' height='50px'>",
+      "19h 29m 11s"
+    ],
+    [
+      "Simple Purple Dress",
+      "41",
+      "Pastel Purple Block Seed",
+      "Pastel Purple Flower Block Seed",
+      "<img src='img/rarity/41/Simple Purple Dress.webp' width='50px' height='50px'>",
+      "19h 29m 11s"
+    ],
+    [
+      "Bee Hair Pin",
+      "42",
+      "Path Marker Seed",
+      "Tiger Block Seed",
+      "<img src='img/rarity/42/Bee Hair Pin.webp' width='50px' height='50px'>",
+      "20h 55m 48s"
+    ],
+    [
+      "Black-Rimmed Glasses",
+      "42",
+      "The Darkness Seed",
+      "Glass Pane Seed",
+      "<img src='img/rarity/42/Black-Rimmed Glasses.webp' width='50px' height='50px'>",
+      "20h 55m 48s"
+    ],
+    [
+      "Blue Sun Shirt",
+      "42",
+      "Happy Sun Shirt (×1)",
+      "Blue Block (×20) and Transmog Crystal (×1)",
+      "<img src='img/rarity/42/Blue Sun Shirt.webp' width='50px' height='50px'>",
+      "20h 55m 48s"
+    ],
+    [
+      "Happy Sun Shirt",
+      "42",
+      "Blue Sun Shirt (×1)",
+      "Orange Block (×20) and Transmog Crystal (×1)",
+      "<img src='img/rarity/42/Happy Sun Shirt.webp' width='50px' height='50px'>",
+      "20h 55m 48s"
+    ],
+    [
+      "Kansas Pigtails",
+      "42",
+      "Pigtails Seed",
+      "Kansas Curls Seed",
+      "<img src='img/rarity/42/Kansas Pigtails.webp' width='50px' height='50px'>",
+      "20h 55m 48s"
+    ],
+    [
+      "Sports Bra",
+      "42",
+      "Race Start Flag Seed",
+      "Outie Block Seed",
+      "<img src='img/rarity/42/Sports Bra.webp' width='50px' height='50px'>",
+      "20h 55m 48s"
+    ],
+    [
+      "Yeti Hat",
+      "43",
+      "Twisted Spikes Seed",
+      "Ice Seed",
+      "<img src='img/rarity/43/Yeti Hat.webp' width='50px' height='50px'>",
+      "22h 26m 37s"
+    ],
+    [
+      "Black Espadrille",
+      "44",
+      "The Darkness Seed",
+      "Wooden Platform Seed",
+      "<img src='img/rarity/44/Black Espadrille.webp' width='50px' height='50px'>",
+      "1d 0h 1m 44s"
+    ],
+    [
+      "Braided Hair",
+      "44",
+      "Brown Block Seed",
+      "Velvet Rope Seed",
+      "<img src='img/rarity/44/Braided Hair.webp' width='50px' height='50px'>",
+      "1d 0h 1m 44s"
+    ],
+    [
+      "Checkered Dress",
+      "44",
+      "Checker Wallpaper Seed",
+      "Race End Flag Seed",
+      "<img src='img/rarity/44/Checkered Dress.webp' width='50px' height='50px'>",
+      "1d 0h 1m 44s"
+    ],
+    [
+      "Monocle",
+      "44",
+      "Music Box Seed",
+      "Window Seed",
+      "<img src='img/rarity/44/Monocle.webp' width='50px' height='50px'>",
+      "1d 0h 1m 44s"
+    ],
+    [
+      "Ninja Mask",
+      "44",
+      "The Darkness Seed",
+      "Black Block Seed",
+      "<img src='img/rarity/44/Ninja Mask.webp' width='50px' height='50px'>",
+      "1d 0h 1m 44s"
+    ],
+    [
+      "Ninja Slippers",
+      "44",
+      "The Darkness Seed",
+      "Brown Block Seed",
+      "<img src='img/rarity/44/Ninja Slippers.webp' width='50px' height='50px'>",
+      "1d 0h 1m 44s"
+    ],
+    [
+      "Refs Jersey",
+      "44",
+      "Checker Wallpaper Seed",
+      "Card Block Seed",
+      "<img src='img/rarity/44/Refs Jersey.webp' width='50px' height='50px'>",
+      "1d 0h 1m 44s"
+    ],
+    [
+      "Cardboard Box",
+      "45",
+      "Brown Wallpaper Seed",
+      "Happy Joy Plaque Seed",
+      "<img src='img/rarity/45/Cardboard Box.webp' width='50px' height='50px'>",
+      "1d 1h 41m 15s"
+    ],
+    [
+      "Dotted Dress",
+      "45",
+      "Polka Dot Block Seed",
+      "Red Royal Wallpaper Seed",
+      "<img src='img/rarity/45/Dotted Dress.webp' width='50px' height='50px'>",
+      "1d 1h 41m 15s"
+    ],
+    [
+      "Frankenhair",
+      "45",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/45/Frankenhair.webp' width='50px' height='50px'>",
+      "1d 1h 41m 15s"
+    ],
+    [
+      "Party Polka Shirt",
+      "45",
+      "Polka Dot Block Seed",
+      "Blue Royal Wallpaper Seed",
+      "<img src='img/rarity/45/Party Polka Shirt.webp' width='50px' height='50px'>",
+      "1d 1h 41m 15s"
+    ],
+    [
+      "Unicorn Hair",
+      "45",
+      "Rainbow Block Seed",
+      "Picket Fence Seed",
+      "<img src='img/rarity/45/Unicorn Hair.webp' width='50px' height='50px'>",
+      "1d 1h 41m 15s"
+    ],
+    [
+      "Ducky Pajama Pants",
+      "46",
+      "Rubber Ducky Seed",
+      "Dreamstone Block Seed",
+      "<img src='img/rarity/46/Ducky Pajama Pants.webp' width='50px' height='50px'>",
+      "1d 3h 25m 16s"
+    ],
+    [
+      "Farmgirl Hair",
+      "46",
+      "Velvet Rope Seed",
+      "Poppy Seed",
+      "<img src='img/rarity/46/Farmgirl Hair.webp' width='50px' height='50px'>",
+      "1d 3h 25m 16s"
+    ],
+    [
+      "Growbans",
+      "46",
+      "Window Seed",
+      "The Darkness Seed",
+      "<img src='img/rarity/46/Growbans.webp' width='50px' height='50px'>",
+      "1d 3h 25m 16s"
+    ],
+    [
+      "Air Robinsons",
+      "47",
+      "Bubble Wrap Seed",
+      "Race End Flag Seed",
+      "<img src='img/rarity/47/Air Robinsons.webp' width='50px' height='50px'>",
+      "1d 5h 13m 53s"
+    ],
+    [
+      "Fairy Crown",
+      "47",
+      "Disco Ball Seed",
+      "Grass Seed",
+      "<img src='img/rarity/47/Fairy Crown.webp' width='50px' height='50px'>",
+      "1d 5h 13m 53s"
+    ],
+    [
+      "Fairy Wand",
+      "47",
+      "Disco Ball Seed",
+      "Wood Block Seed",
+      "<img src='img/rarity/47/Fairy Wand.webp' width='50px' height='50px'>",
+      "1d 5h 13m 53s"
+    ],
+    [
+      "Makeup",
+      "47",
+      "Purple Stuff Seed",
+      "Pastel Pink Flower Block Seed",
+      "<img src='img/rarity/47/Makeup.webp' width='50px' height='50px'>",
+      "1d 5h 13m 53s"
+    ],
+    [
+      "Tank Top",
+      "47",
+      "Stone Wall Seed",
+      "Jail Door Seed",
+      "<img src='img/rarity/47/Tank Top.webp' width='50px' height='50px'>",
+      "1d 5h 13m 53s"
+    ],
+    [
+      "Wedding Dress",
+      "47",
+      "White Wallpaper Seed",
+      "Rose Seed",
+      "<img src='img/rarity/47/Wedding Dress.webp' width='50px' height='50px'>",
+      "1d 5h 13m 53s"
+    ],
+    [
+      "Black Braids",
+      "48",
+      "Dark Purple Block Seed",
+      "Dark Blue Block Seed",
+      "<img src='img/rarity/48/Black Braids.webp' width='50px' height='50px'>",
+      "1d 7h 7m 12s"
+    ],
+    [
+      "Blue Star Shoes",
+      "48",
+      "Blue Star Wallpaper Seed",
+      "Obelisk Seed",
+      "<img src='img/rarity/48/Blue Star Shoes.webp' width='50px' height='50px'>",
+      "1d 7h 7m 12s"
+    ],
+    [
+      "Buckskin Pants",
+      "48",
+      "Cave Entrance Seed",
+      "Brown Block Seed",
+      "<img src='img/rarity/48/Buckskin Pants.webp' width='50px' height='50px'>",
+      "1d 7h 7m 12s"
+    ],
+    [
+      "Fairy Skirt",
+      "48",
+      "Disco Ball Seed",
+      "Daisy Seed",
+      "<img src='img/rarity/48/Fairy Skirt.webp' width='50px' height='50px'>",
+      "1d 7h 7m 12s"
+    ],
+    [
+      "Foam Finger",
+      "48",
+      "Pointy Sign Seed",
+      "White Wallpaper Seed",
+      "<img src='img/rarity/48/Foam Finger.webp' width='50px' height='50px'>",
+      "1d 7h 7m 12s"
+    ],
+    [
+      "Showgirl Top",
+      "48",
+      "Ice Seed",
+      "Blue Star Wallpaper Seed",
+      "<img src='img/rarity/48/Showgirl Top.webp' width='50px' height='50px'>",
+      "1d 7h 7m 12s"
+    ],
+    [
+      "Wetsuit Pants",
+      "48",
+      "Black Wallpaper Seed",
+      "Yellow Block Seed",
+      "<img src='img/rarity/48/Wetsuit Pants.webp' width='50px' height='50px'>",
+      "1d 7h 7m 12s"
+    ],
+    [
+      "Buckskin Hood",
+      "49",
+      "Cave Entrance Seed",
+      "Rock Platform Seed",
+      "<img src='img/rarity/49/Buckskin Hood.webp' width='50px' height='50px'>",
+      "1d 9h 5m 19s"
+    ],
+    [
+      "Camo Pants",
+      "49",
+      "Cliffside Seed",
+      "Prehistoric Palm Seed",
+      "<img src='img/rarity/49/Camo Pants.webp' width='50px' height='50px'>",
+      "1d 9h 5m 19s"
+    ],
+    [
+      "Ruby Slippers",
+      "49",
+      "Red Block Seed",
+      "Disco Ball Seed",
+      "<img src='img/rarity/49/Ruby Slippers.webp' width='50px' height='50px'>",
+      "1d 9h 5m 19s"
+    ],
+    [
+      "Acid-Washed Skinny Jeans",
+      "50",
+      "Acid Seed",
+      "Blue Block Seed",
+      "<img src='img/rarity/50/Acid-Washed Skinny Jeans.webp' width='50px' height='50px'>",
+      "1d 11h 8m 20s"
+    ],
+    [
+      "Creepy Hair",
+      "50",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/50/Creepy Hair.webp' width='50px' height='50px'>",
+      "1d 11h 8m 20s"
+    ],
+    [
+      "Emo Hair",
+      "50",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/50/Emo Hair.webp' width='50px' height='50px'>",
+      "1d 11h 8m 20s"
+    ],
+    [
+      "Fairy Dress",
+      "50",
+      "Aqua Block Seed",
+      "Disco Ball Seed",
+      "<img src='img/rarity/50/Fairy Dress.webp' width='50px' height='50px'>",
+      "1d 11h 8m 20s"
+    ],
+    [
+      "Glowing Nose",
+      "50",
+      "Chemical B (×12),",
+      "Chemical R (×10) and Chemical Y (×4)",
+      "<img src='img/rarity/50/Glowing Nose.webp' width='50px' height='50px'>",
+      "1d 11h 8m 20s"
+    ],
+    [
+      "Space Suit",
+      "50",
+      "Innie Block Seed",
+      "Outie Block Seed",
+      "<img src='img/rarity/50/Space Suit.webp' width='50px' height='50px'>",
+      "1d 11h 8m 20s"
+    ],
+    [
+      "Cosmic Skirt",
+      "51",
+      "Starseed",
+      "Hanging Guytrap Seed",
+      "<img src='img/rarity/51/Cosmic Skirt.webp' width='50px' height='50px'>",
+      "1d 13h 16m 21s"
+    ],
+    [
+      "Ducky Pajama Top",
+      "51",
+      "Rubber Ducky Seed",
+      "Cloudstone Block Seed",
+      "<img src='img/rarity/51/Ducky Pajama Top.webp' width='50px' height='50px'>",
+      "1d 13h 16m 21s"
+    ],
+    [
+      "Fairy Slippers",
+      "51",
+      "Poppy Seed",
+      "Disco Ball Seed",
+      "<img src='img/rarity/51/Fairy Slippers.webp' width='50px' height='50px'>",
+      "1d 13h 16m 21s"
+    ],
+    [
+      "Golden Halo",
+      "51",
+      "Yellow Block Seed",
+      "Disco Ball Seed",
+      "<img src='img/rarity/51/Golden Halo.webp' width='50px' height='50px'>",
+      "1d 13h 16m 21s"
+    ],
+    [
+      "Plate Mail",
+      "51",
+      "Portcullis Seed",
+      "Steel Block Seed",
+      "<img src='img/rarity/51/Plate Mail.webp' width='50px' height='50px'>",
+      "1d 13h 16m 21s"
+    ],
+    [
+      "White Bellbottoms",
+      "51",
+      "White Block Seed",
+      "Disco Ball Seed",
+      "<img src='img/rarity/51/White Bellbottoms.webp' width='50px' height='50px'>",
+      "1d 13h 16m 21s"
+    ],
+    [
+      "FC Jersey",
+      "52",
+      "Purple Stuff Seed",
+      "Dark Red Block Seed",
+      "<img src='img/rarity/52/FC Jersey.webp' width='50px' height='50px'>",
+      "1d 15h 29m 28s"
+    ],
+    [
+      "Fairy Wings",
+      "52",
+      "Flowery Wallpaper Seed",
+      "Disco Ball Seed",
+      "<img src='img/rarity/52/Fairy Wings.webp' width='50px' height='50px'>",
+      "1d 15h 29m 28s"
+    ],
+    [
+      "Spring Crown",
+      "52",
+      "Golden Halo Seed",
+      "Magic Egg",
+      "<img src='img/rarity/52/Spring Crown.webp' width='50px' height='50px'>",
+      "1d 15h 29m 28s"
+    ],
+    [
+      "Velour Space Uniform",
+      "52",
+      "Starseed",
+      "Theater Seat Seed",
+      "<img src='img/rarity/52/Velour Space Uniform.webp' width='50px' height='50px'>",
+      "1d 15h 29m 28s"
+    ],
+    [
+      "Astronaut Pack",
+      "53",
+      "Super Crate Box Seed",
+      "Traffic Barricade Seed",
+      "<img src='img/rarity/53/Astronaut Pack.webp' width='50px' height='50px'>",
+      "1d 17h 47m 47s"
+    ],
+    [
+      "Orange Shirt",
+      "53",
+      "Orange Wallpaper Seed",
+      "Poppy Seed",
+      "<img src='img/rarity/53/Orange Shirt.webp' width='50px' height='50px'>",
+      "1d 17h 47m 47s"
+    ],
+    [
+      "Pirate Hat",
+      "53",
+      "Cannon Seed",
+      "Mushroom Seed",
+      "<img src='img/rarity/53/Pirate Hat.webp' width='50px' height='50px'>",
+      "1d 17h 47m 47s"
+    ],
+    [
+      "Crazy Purple Hair",
+      "54",
+      "Sheet Music: Sharp Bass Seed",
+      "Coral Seed",
+      "<img src='img/rarity/54/Crazy Purple Hair.webp' width='50px' height='50px'>",
+      "1d 20h 11m 24s"
+    ],
+    [
+      "Straw Hat",
+      "54",
+      "Golden Halo Seed",
+      "Wheat Seed",
+      "<img src='img/rarity/54/Straw Hat.webp' width='50px' height='50px'>",
+      "1d 20h 11m 24s"
+    ],
+    [
+      "Buckskin Jacket",
+      "55",
+      "Cave Entrance Seed",
+      "Barrel Seed",
+      "<img src='img/rarity/55/Buckskin Jacket.webp' width='50px' height='50px'>",
+      "1d 22h 40m 25s"
+    ],
+    [
+      "Caveman Club",
+      "55",
+      "Sequoia Tree Seed",
+      "Cutaway Building Seed",
+      "<img src='img/rarity/55/Caveman Club.webp' width='50px' height='50px'>",
+      "1d 22h 40m 25s"
+    ],
+    [
+      "Firefighter Boots",
+      "55",
+      "Black Wallpaper Seed",
+      "Dark Yellow Block Seed",
+      "<img src='img/rarity/55/Firefighter Boots.webp' width='50px' height='50px'>",
+      "1d 22h 40m 25s"
+    ],
+    [
+      "Knife Head",
+      "55",
+      "unsplicable",
+      "Sacrifice any item with a rarity of 55 or above to Growganoth.",
+      "<img src='img/rarity/55/Knife Head.webp' width='50px' height='50px'>",
+      "1d 22h 40m 25s"
+    ],
+    [
+      "Ninja Vest",
+      "55",
+      "The Darkness Seed",
+      "Blue Block Seed",
+      "<img src='img/rarity/55/Ninja Vest.webp' width='50px' height='50px'>",
+      "1d 22h 40m 25s"
+    ],
+    [
+      "Pink Hair",
+      "56",
+      "Happy Unicorn Block Seed",
+      "Pastel Pink Flower Block Seed",
+      "<img src='img/rarity/56/Pink Hair.webp' width='50px' height='50px'>",
+      "2d 1h 14m 56s"
+    ],
+    [
+      "Aqua Hair",
+      "57",
+      "Happy Unicorn Block Seed",
+      "Pastel Aqua Flower Block Seed",
+      "<img src='img/rarity/57/Aqua Hair.webp' width='50px' height='50px'>",
+      "2d 3h 55m 3s"
+    ],
+    [
+      "Hoop Earrings",
+      "57",
+      "Poppy Seed",
+      "Golden Halo Seed",
+      "<img src='img/rarity/57/Hoop Earrings.webp' width='50px' height='50px'>",
+      "2d 3h 55m 3s"
+    ],
+    [
+      "Knight Helmet",
+      "57",
+      "Steel Girder Seed",
+      "Grimstone Seed",
+      "<img src='img/rarity/57/Knight Helmet.webp' width='50px' height='50px'>",
+      "2d 3h 55m 3s"
+    ],
+    [
+      "Wedding Headdress",
+      "57",
+      "Golden Block Seed",
+      "Portcullis Seed",
+      "<img src='img/rarity/57/Wedding Headdress.webp' width='50px' height='50px'>",
+      "2d 3h 55m 3s"
+    ],
+    [
+      "Baneful Mask",
+      "58",
+      "Plumbing Seed",
+      "The Darkness Seed",
+      "<img src='img/rarity/58/Baneful Mask.webp' width='50px' height='50px'>",
+      "2d 6h 40m 52s"
+    ],
+    [
+      "Golden Sword",
+      "58",
+      "Golden Block Seed",
+      "Picket Fence Seed",
+      "<img src='img/rarity/58/Golden Sword.webp' width='50px' height='50px'>",
+      "2d 6h 40m 52s"
+    ],
+    [
+      "Explorer's Shovel",
+      "59",
+      "Pencil Seed",
+      "Sunken Anchor Seed",
+      "<img src='img/rarity/59/Explorers Shovel.webp' width='50px' height='50px'>",
+      "2d 9h 32m 29s"
+    ],
+    [
+      "Ninja Tights",
+      "59",
+      "The Darkness Seed",
+      "Purple Block Seed",
+      "<img src='img/rarity/59/Ninja Tights.webp' width='50px' height='50px'>",
+      "2d 9h 32m 29s"
+    ],
+    [
+      "Moon Boots",
+      "60",
+      "Pinball Sproinger Seed",
+      "Grey Block Seed",
+      "<img src='img/rarity/60/Moon Boots.webp' width='50px' height='50px'>",
+      "2d 12h 30m 0s"
+    ],
+    [
+      "Ophthalmologist Glasses",
+      "60",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/60/Ophthalmologist Glasses.webp' width='50px' height='50px'>",
+      "2d 12h 30m 0s"
+    ],
+    [
+      "Sheriff's Vest",
+      "60",
+      "Jail Door Seed",
+      "Blue Star Wallpaper Seed",
+      "<img src='img/rarity/60/Sheriffs Vest.webp' width='50px' height='50px'>",
+      "2d 12h 30m 0s"
+    ],
+    [
+      "Soda Jetpack",
+      "60",
+      "Bubble Wrap Seed",
+      "Toxic Waste Barrel Seed",
+      "<img src='img/rarity/60/Soda Jetpack.webp' width='50px' height='50px'>",
+      "2d 12h 30m 0s"
+    ],
+    [
+      "Wizard's Robe",
+      "60",
+      "Purple Wallpaper Seed",
+      "Happy Joy Plaque Seed",
+      "<img src='img/rarity/60/Wizards Robe.webp' width='50px' height='50px'>",
+      "2d 12h 30m 0s"
+    ],
+    [
+      "Clapboard",
+      "61",
+      "Checker Wallpaper Seed",
+      "Traffic Barricade Seed",
+      "<img src='img/rarity/61/Clapboard.webp' width='50px' height='50px'>",
+      "2d 15h 33m 31s"
+    ],
+    [
+      "Football Helmet",
+      "62",
+      "Jail Door Seed",
+      "Pastel Orange Wallpaper Seed",
+      "<img src='img/rarity/62/Football Helmet.webp' width='50px' height='50px'>",
+      "2d 18h 43m 8s"
+    ],
+    [
+      "Corset",
+      "62",
+      "Pinball Sproinger Seed",
+      "Pastel Aqua Block Seed",
+      "<img src='img/rarity/62/Corset.webp' width='50px' height='50px'>",
+      "2d 18h 43m 8s"
+    ],
+    [
+      "Oxygen Mask",
+      "63",
+      "Air Vent Seed",
+      "Fish Tank Seed",
+      "<img src='img/rarity/63/Oxygen Mask.webp' width='50px' height='50px'>",
+      "2d 21h 58m 57s"
+    ],
+    [
+      "Wetsuit Top",
+      "63",
+      "Black Wallpaper Seed",
+      "Swiss Cheese Block Seed",
+      "<img src='img/rarity/63/Wetsuit Top.webp' width='50px' height='50px'>",
+      "2d 21h 58m 57s"
+    ],
+    [
+      "Dress with Smock",
+      "64",
+      "Diamond-Encrusted Draped Filigreed Jade Block Seed",
+      "Stripey Wallpaper Seed",
+      "<img src='img/rarity/64/Dress with Smock.webp' width='50px' height='50px'>",
+      "3d 1h 21m 4s"
+    ],
+    [
+      "Overalls",
+      "64",
+      "Barrel Seed",
+      "Blue Wallpaper Seed",
+      "<img src='img/rarity/64/Overalls.webp' width='50px' height='50px'>",
+      "3d 1h 21m 4s"
+    ],
+    [
+      "Spaceman Pants",
+      "64",
+      "Starseed",
+      "Asteroid Seed",
+      "<img src='img/rarity/64/Spaceman Pants.webp' width='50px' height='50px'>",
+      "3d 1h 21m 4s"
+    ],
+    [
+      "Cursed Wizard Hat",
+      "65",
+      "Bookcase Seed",
+      "Dreamstone Block Seed",
+      "<img src='img/rarity/65/Cursed Wizard Hat.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Funk Wizard Hat",
+      "65",
+      "Bookcase Seed",
+      "Dreamstone Block Seed",
+      "<img src='img/rarity/65/Funk Wizard Hat.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Goatee",
+      "65",
+      "Cuzco Wall Mount Seed",
+      "Evil Brick Background Seed",
+      "<img src='img/rarity/65/Goatee.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Headsmans Axe",
+      "65",
+      "Pencil Seed",
+      "Dragon Gate Seed",
+      "<img src='img/rarity/65/Headsmans Axe.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Meaty Apron",
+      "65",
+      "Chicken Seed",
+      "Brick Background Seed",
+      "<img src='img/rarity/65/Meaty Apron.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Merlin Hat",
+      "65",
+      "Dreamstone Block Seed",
+      "Bookcase Seed",
+      "<img src='img/rarity/65/Merlin Hat.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Rhinestone Evening Dress",
+      "65",
+      "Sandstone Seed",
+      "Marquee Block Seed",
+      "<img src='img/rarity/65/Rhinestone Evening Dress.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Witch Hat",
+      "65",
+      "Dreamstone Block Seed",
+      "Bookcase Seed",
+      "<img src='img/rarity/65/Witch Hat.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Wizard Hat",
+      "65",
+      "Dreamstone Block Seed",
+      "Bookcase Seed",
+      "<img src='img/rarity/65/Wizard Hat.webp' width='50px' height='50px'>",
+      "3d 4h 49m 35s"
+    ],
+    [
+      "Devil Tail",
+      "66",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/66/Devil Tail.webp' width='50px' height='50px'>",
+      "3d 8h 24m 36s"
+    ],
+    [
+      "Dragon Tail",
+      "66",
+      "Chemical G (×6)",
+      "Chemical P (×4) and Chemical Y (×3)",
+      "<img src='img/rarity/66/Dragon Tail.webp' width='50px' height='50px'>",
+      "3d 8h 24m 36s"
+    ],
+    [
+      "Puffy Orange Jacket",
+      "66",
+      "Clouds Seed",
+      "Orange Stuff Seed",
+      "<img src='img/rarity/66/Puffy Orange Jacket.webp' width='50px' height='50px'>",
+      "3d 8h 24m 36s"
+    ],
+    [
+      "Carrot Pants",
+      "67",
+      "Orange Stuff Seed",
+      "Green Stuff Seed",
+      "<img src='img/rarity/67/Carrot Pants.webp' width='50px' height='50px'>",
+      "3d 12h 6m 13s"
+    ],
+    [
+      "Pacifier",
+      "67",
+      "Happy Unicorn Block Seed",
+      "Pastel Blue Flower Block Seed",
+      "<img src='img/rarity/67/Pacifier.webp' width='50px' height='50px'>",
+      "3d 12h 6m 13s"
+    ],
+    [
+      "Eyepatch",
+      "68",
+      "Cuzco Wall Mount Seed",
+      "Cannon Seed",
+      "<img src='img/rarity/68/Eyepatch.webp' width='50px' height='50px'>",
+      "3d 15h 54m 32s"
+    ],
+    [
+      "Fashion Purse - Blue",
+      "68",
+      "Jade Block Seed",
+      "Cave Entrance Seed",
+      "<img src='img/rarity/68/Fashion Purse - Blue.webp' width='50px' height='50px'>",
+      "3d 15h 54m 32s"
+    ],
+    [
+      "Fashion Purse - Green",
+      "68",
+      "Jade Block Seed",
+      "Cave Entrance Seed",
+      "<img src='img/rarity/68/Fashion Purse - Green.webp' width='50px' height='50px'>",
+      "3d 15h 54m 32s"
+    ],
+    [
+      "Fashion Purse - Pink",
+      "68",
+      "Jade Block Seed",
+      "Marquee Block Seed",
+      "<img src='img/rarity/68/Fashion Purse - Pink.webp' width='50px' height='50px'>",
+      "3d 15h 54m 32s"
+    ],
+    [
+      "Fashion Purse - Purple",
+      "68",
+      "Jade Block Seed",
+      "Cave Entrance Seed",
+      "<img src='img/rarity/68/Fashion Purse - Purple.webp' width='50px' height='50px'>",
+      "3d 15h 54m 32s"
+    ],
+    [
+      "Fashion Purse - Red",
+      "68",
+      "Jade Block Seed",
+      "Cave Entrance Seed",
+      "<img src='img/rarity/68/Fashion Purse - Red.webp' width='50px' height='50px'>",
+      "3d 15h 54m 32s"
+    ],
+    [
+      "Fashion Purse - Yellow",
+      "68",
+      "Jade Block Seed",
+      "Cave Entrance Seed",
+      "<img src='img/rarity/68/Fashion Purse - Yellow.webp' width='50px' height='50px'>",
+      "3d 15h 54m 32s"
+    ],
+    [
+      "Golf Pants",
+      "68",
+      "Purple Wallpaper Seed",
+      "Checker Wallpaper Seed",
+      "<img src='img/rarity/68/Golf Pants.webp' width='50px' height='50px'>",
+      "3d 15h 54m 32s"
+    ],
+    [
+      "Backwards Ballcap",
+      "69",
+      "Wooden Platform Seed",
+      "Donation Box Seed",
+      "<img src='img/rarity/69/Backwards Ballcap.webp' width='50px' height='50px'>",
+      "3d 19h 49m 39s"
+    ],
+    [
+      "GrowBeats Headphones",
+      "69",
+      "Boombox Seed",
+      "Note Block Seed",
+      "<img src='img/rarity/69/GrowBeats Headphones.webp' width='50px' height='50px'>",
+      "3d 19h 49m 39s"
+    ],
+    [
+      "Claw Glove",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Claw Glove.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Edvoids Mistake",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Edvoids Mistake.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Evil Grin",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Evil Grin.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Hockey Mask",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Hockey Mask.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Jack o Lantern Mask",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Jack o Lantern Mask.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Muerto Mask",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Muerto Mask.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Mummy Mask",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Mummy Mask.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Skull Mask",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Skull Mask.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Wolfman Mask",
+      "70",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/70/Wolfman Mask.webp' width='50px' height='50px'>",
+      "3d 23h 51m 40s"
+    ],
+    [
+      "Fashionable Dress - Blue",
+      "71",
+      "Jade Block Seed",
+      "Marquee Block Seed",
+      "<img src='img/rarity/71/Fashionable Dress - Blue.webp' width='50px' height='50px'>",
+      "4d 4h 0m 41s"
+    ],
+    [
+      "Fashionable Dress - Green",
+      "71",
+      "Jade Block Seed",
+      "Marquee Block Seed",
+      "<img src='img/rarity/71/Fashionable Dress - Green.webp' width='50px' height='50px'>",
+      "4d 4h 0m 41s"
+    ],
+    [
+      "Fashionable Dress - Pink",
+      "71",
+      "Jade Block Seed",
+      "Marquee Block Seed",
+      "<img src='img/rarity/71/Fashionable Dress - Pink.webp' width='50px' height='50px'>",
+      "4d 4h 0m 41s"
+    ],
+    [
+      "Fashionable Dress - Purple",
+      "71",
+      "Jade Block Seed",
+      "Marquee Block Seed",
+      "<img src='img/rarity/71/Fashionable Dress - Purple.webp' width='50px' height='50px'>",
+      "4d 4h 0m 41s"
+    ],
+    [
+      "Fashionable Dress - Red",
+      "71",
+      "Jade Block Seed",
+      "Marquee Block Seed",
+      "<img src='img/rarity/71/Fashionable Dress - Red.webp' width='50px' height='50px'>",
+      "4d 4h 0m 41s"
+    ],
+    [
+      "Fashionable Dress - Yellow",
+      "71",
+      "Jade Block Seed",
+      "Marquee Block Seed",
+      "<img src='img/rarity/71/Fashionable Dress - Yellow.webp' width='50px' height='50px'>",
+      "4d 4h 0m 41s"
+    ],
+    [
+      "Flamethrower",
+      "71",
+      "JRock N' Roll Wallpaper Seed",
+      "Lava Cube Seed",
+      "<img src='img/rarity/71/Flamethrower.webp' width='50px' height='50px'>",
+      "4d 4h 0m 41s"
+    ],
+    [
+      "Blue Hardhat",
+      "72",
+      "Pastel Blue Wallpaper Seed",
+      "Beehive Seed",
+      "<img src='img/rarity/72/Blue Hardhat.webp' width='50px' height='50px'>",
+      "4d 8h 16m 48s"
+    ],
+    [
+      "Hammer Pants",
+      "72",
+      "Tangram Block Seed",
+      "Purple Wallpaper Seed",
+      "<img src='img/rarity/72/Hammer Pants.webp' width='50px' height='50px'>",
+      "4d 8h 16m 48s"
+    ],
+    [
+      "Rockin' Headband",
+      "72",
+      "Sheet Music: Sharp Bass Seed",
+      "Velvet Rope Seed",
+      "<img src='img/rarity/72/Rockin Headband.webp' width='50px' height='50px'>",
+      "4d 8h 16m 48s"
+    ],
+    [
+      "Smarty Pants",
+      "72",
+      "Rainbow Block Seed",
+      "White Wallpaper Seed",
+      "<img src='img/rarity/72/Smarty Pants.webp' width='50px' height='50px'>",
+      "4d 8h 16m 48s"
+    ],
+    [
+      "Blue Headband",
+      "73",
+      "Race Start Flag Seed",
+      "Golden Halo Seed",
+      "<img src='img/rarity/73/Blue Headband.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "High Heels - Blue",
+      "73",
+      "Jade Block Seed",
+      "Stage Support Seed",
+      "<img src='img/rarity/73/High Heels - Blue.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "High Heels - Green",
+      "73",
+      "Jade Block Seed",
+      "Stage Support Seed",
+      "<img src='img/rarity/73/High Heels - Green.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "High Heels - Pink",
+      "73",
+      "Jade Block Seed",
+      "Stage Support Seed",
+      "<img src='img/rarity/73/High Heels - Pink.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "High Heels - Purple",
+      "73",
+      "Jade Block Seed",
+      "Stage Support Seed",
+      "<img src='img/rarity/73/High Heels - Purple.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "High Heels - Red",
+      "73",
+      "Jade Block Seed",
+      "Stage Support Seed",
+      "<img src='img/rarity/73/High Heels - Red.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "High Heels - Yellow",
+      "73",
+      "Jade Block Seed",
+      "Stage Support Seed",
+      "<img src='img/rarity/73/High Heels - Yellow.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Creepy Baby Head Mask",
+      "73",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/73/Creepy Baby Head Mask.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Creepy Baby Suit",
+      "73",
+      "Sacrifice any item with a rarity of 73 or above to Growganoth",
+      "unsplicable",
+      "<img src='img/rarity/73/Creepy Baby Suit.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Demon Clown Mask",
+      "73",
+      "Sacrifice any item with a rarity of 73 or above to Growganoth.",
+      "unsplicable",
+      "<img src='img/rarity/73/Demon Clown Mask.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Fish Monster Mask",
+      "73",
+      "Sacrifice any item with a rarity of 73 or above to Growganoth",
+      "unsplicable",
+      "<img src='img/rarity/73/Fish Monster Mask.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Spaceman Suit",
+      "73",
+      "Starseed",
+      "Adventure Item - Golden Idol Seed",
+      "<img src='img/rarity/73/Spaceman Suit.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Stylin Dress - Blue",
+      "73",
+      "Jade Block Seed",
+      "Flower Checkpoint Seed",
+      "<img src='img/rarity/73/Stylin Dress - Blue.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Stylin Dress - Green",
+      "73",
+      "Jade Block Seed",
+      "Flower Checkpoint Seed",
+      "<img src='img/rarity/73/Stylin Dress - Green.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Stylin Dress - Pink",
+      "73",
+      "Jade Block Seed",
+      "Flower Checkpoint Seed",
+      "<img src='img/rarity/73/Stylin Dress - Pink.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Stylin Dress - Purple",
+      "73",
+      "Jade Block Seed",
+      "Flower Checkpoint Seed",
+      "<img src='img/rarity/73/Stylin Dress - Purple.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Stylin Dress - Red",
+      "73",
+      "Jade Block Seed",
+      "Flower Checkpoint Seed",
+      "<img src='img/rarity/73/Stylin Dress - Red.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Stylin Dress - Yellow",
+      "73",
+      "Jade Block Seed",
+      "Flower Checkpoint Seed",
+      "<img src='img/rarity/73/Stylin Dress - Yellow.webp' width='50px' height='50px'>",
+      "4d 12h 40m 7s"
+    ],
+    [
+      "Chef Hat",
+      "74",
+      "Stove Seed",
+      "Mushroom Seed",
+      "<img src='img/rarity/74/Chef Hat.webp' width='50px' height='50px'>",
+      "4d 17h 10m 44s"
+    ],
+    [
+      "Man U Jersey",
+      "74",
+      "Adventure Item - Banana Seed",
+      "Red Bricks Seed",
+      "<img src='img/rarity/74/Man U Jersey.webp' width='50px' height='50px'>",
+      "4d 17h 10m 44s"
+    ],
+    [
+      "Rainbow Wig",
+      "74",
+      "Rainbow Block Seed",
+      "Fireplace Seed",
+      "<img src='img/rarity/74/Rainbow Wig.webp' width='50px' height='50px'>",
+      "4d 17h 10m 44s"
+    ],
+    [
+      "Space Pants",
+      "74",
+      "Dice Block Seed",
+      "Grey Block Seed",
+      "<img src='img/rarity/74/Space Pants.webp' width='50px' height='50px'>",
+      "4d 17h 10m 44s"
+    ],
+    [
+      "Caveman Hair",
+      "75",
+      "Terracotta Pot Seed",
+      "Skeleton Seed",
+      "<img src='img/rarity/75/Caveman Hair.webp' width='50px' height='50px'>",
+      "4d 21h 48m 45s"
+    ],
+    [
+      "Cavewoman Hair",
+      "75",
+      "Skeleton Seed",
+      "Wheat Seed",
+      "<img src='img/rarity/75/Cavewoman Hair.webp' width='50px' height='50px'>",
+      "4d 21h 48m 45s"
+    ],
+    [
+      "Flaming Skull Mask",
+      "75",
+      "Skeleton Seed",
+      "Torch Seed",
+      "<img src='img/rarity/75/Flaming Skull Mask.webp' width='50px' height='50px'>",
+      "4d 21h 48m 45s"
+    ],
+    [
+      "Sack O' Joy",
+      "75",
+      "Note Block Seed",
+      "Disco Ball Seed",
+      "<img src='img/rarity/75/Sack O Joy.webp' width='50px' height='50px'>",
+      "4d 21h 48m 45s"
+    ],
+    [
+      "Lab Coat",
+      "75",
+      "Chemical P (×3)",
+      "Chemical R (×10) and Chemical Y (×3).",
+      "<img src='img/rarity/75/Lab Coat.webp' width='50px' height='50px'>",
+      "4d 21h 48m 45s"
+    ],
+    [
+      "Sproingy Eyes",
+      "75",
+      "Pinball Sproinger Seed",
+      "Apple Seed",
+      "<img src='img/rarity/75/Sproingy Eyes.webp' width='50px' height='50px'>",
+      "4d 21h 48m 45s"
+    ],
+    [
+      "Toasted Villager Hat",
+      "76",
+      "Terracotta Pot Seed",
+      "Pocket Lighter Seed",
+      "<img src='img/rarity/76/Toasted Villager Hat.webp' width='50px' height='50px'>",
+      "5d 2h 34m 16s"
+    ],
+    [
+      "Toasted Villager Pants",
+      "76",
+      "Super Crate Box Seed",
+      "Pocket Lighter Seed",
+      "<img src='img/rarity/76/Toasted Villager Pants.webp' width='50px' height='50px'>",
+      "5d 2h 34m 16s"
+    ],
+    [
+      "Toasted Villager Shirt",
+      "76",
+      "Happy Joy Plaque Seed",
+      "Pocket Lighter Seed",
+      "<img src='img/rarity/76/Toasted Villager Shirt.webp' width='50px' height='50px'>",
+      "5d 2h 34m 16s"
+    ],
+    [
+      "Toasted Villager Shoes",
+      "76",
+      "Crappy Sign Seed",
+      "Pocket Lighter Seed",
+      "<img src='img/rarity/76/Toasted Villager Shoes.webp' width='50px' height='50px'>",
+      "5d 2h 34m 16s"
+    ],
+    [
+      "Pink Pageboy",
+      "77",
+      "Guestbook Seed",
+      "Pastel Pink Block Seed",
+      "<img src='img/rarity/77/Pink Pageboy.webp' width='50px' height='50px'>",
+      "5d 7h 27m 23s"
+    ],
+    [
+      "Toasted Face Smudges",
+      "77",
+      "Mud Glob Seed",
+      "Pocket Lighter Seed",
+      "<img src='img/rarity/77/Toasted Face Smudges.webp' width='50px' height='50px'>",
+      "5d 7h 27m 23s"
+    ],
+    [
+      "Zeta Reticulant Mask",
+      "78",
+      "Military Radio Seed",
+      "Grey Wallpaper Seed",
+      "<img src='img/rarity/78/Zeta Reticulant Mask.webp' width='50px' height='50px'>",
+      "5d 12h 28m 12s"
+    ],
+    [
+      "Fishnet Stockings",
+      "79",
+      "The Darkness Seed",
+      "Boombox Seed",
+      "<img src='img/rarity/79/Fishnet Stockings.webp' width='50px' height='50px'>",
+      "5d 17h 36m 49s"
+    ],
+    [
+      "Flapper Dress",
+      "80",
+      "Lava Seed",
+      "Time-Space Rupture Seed",
+      "<img src='img/rarity/80/Flapper Dress.webp' width='50px' height='50px'>",
+      "5d 22h 53m 20s"
+    ],
+    [
+      "Vampire Fangs",
+      "80",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/80/Vampire Fangs.webp' width='50px' height='50px'>",
+      "5d 22h 53m 20s"
+    ],
+    [
+      "Cigar",
+      "81",
+      "Time-Space Rupture Seed",
+      "Lava Rock Seed",
+      "<img src='img/rarity/81/Cigar.webp' width='50px' height='50px'>",
+      "6d 4h 17m 51s"
+    ],
+    [
+      "Pith Helmet",
+      "81",
+      "Pillar Seed",
+      "Sandstone Seed",
+      "<img src='img/rarity/81/Pith Helmet.webp' width='50px' height='50px'>",
+      "6d 4h 17m 51s"
+    ],
+    [
+      "Apron",
+      "82",
+      "Stove Seed",
+      "Checker Wallpaper Seed",
+      "<img src='img/rarity/82/Apron.webp' width='50px' height='50px'>",
+      "6d 9h 50m 28s"
+    ],
+    [
+      "Astronaut Helmet",
+      "82",
+      "Space Helmet (×1)",
+      "Astronaut Pack (×20) and Transmog Crystal (×1)",
+      "<img src='img/rarity/82/Astronaut Helmet.webp' width='50px' height='50px'>",
+      "6d 9h 50m 28s"
+    ],
+    [
+      "Flapper Headband",
+      "82",
+      "Time-Space Rupture Seed",
+      "Daisy Seed",
+      "<img src='img/rarity/82/Flapper Headband.webp' width='50px' height='50px'>",
+      "6d 9h 50m 28s"
+    ],
+    [
+      "Pinstripe Suit",
+      "82",
+      "Time-Space Rupture Seed",
+      "Rose Seed",
+      "<img src='img/rarity/82/Pinstripe Suit.webp' width='50px' height='50px'>",
+      "6d 9h 50m 28s"
+    ],
+    [
+      "Space Helmet",
+      "82",
+      "Fishbowl Seed",
+      "Checkpoint Seed",
+      "<img src='img/rarity/82/Space Helmet.webp' width='50px' height='50px'>",
+      "6d 9h 50m 28s"
+    ],
+    [
+      "Fedora",
+      "83",
+      "Time-Space Rupture Seed",
+      "Black Block Seed",
+      "<img src='img/rarity/83/Fedora.webp' width='50px' height='50px'>",
+      "6d 15h 31m 17s"
+    ],
+    [
+      "Action Hero Stubble",
+      "84",
+      "Tiger Block Seed",
+      "Movie Screen Seed",
+      "<img src='img/rarity/84/Action Hero Stubble.webp' width='50px' height='50px'>",
+      "6d 21h 20m 24s"
+    ],
+    [
+      "Waistcoat and Jacket",
+      "84",
+      "Diamond-Encrusted Draped Filigreed Jade Block Seed",
+      "Red Royal Wallpaper Seed",
+      "<img src='img/rarity/84/Waistcoat and Jacket.webp' width='50px' height='50px'>",
+      "6d 21h 20m 24s"
+    ],
+    [
+      "Dame's Fedora",
+      "85",
+      "Time-Space Rupture Seed",
+      "Poppy Seed",
+      "<img src='img/rarity/85/Dames Fedora.webp' width='50px' height='50px'>",
+      "1w 0d 3h 17m 55s"
+    ],
+    [
+      "Rocket Pack",
+      "85",
+      "Starseed",
+      "Microwave Seed",
+      "<img src='img/rarity/85/Rocket Pack.webp' width='50px' height='50px'>",
+      "1w 0d 3h 17m 55s"
+    ],
+    [
+      "Snowmobile",
+      "85",
+      "Mega Rock Speaker Seed",
+      "Orange Stuff Seed",
+      "<img src='img/rarity/85/Snowmobile.webp' width='50px' height='50px'>",
+      "1w 0d 3h 17m 55s"
+    ],
+    [
+      "Ze Goggles",
+      "85",
+      "Chemical B (×4),",
+      "Chemical R (×2) and Chemical P (×3).",
+      "<img src='img/rarity/85/Ze Goggles.webp' width='50px' height='50px'>",
+      "1w 0d 3h 17m 55s"
+    ],
+    [
+      "Combat Vest",
+      "86",
+      "Aqua Wallpaper Seed",
+      "Green Wallpaper Seed",
+      "<img src='img/rarity/86/Combat Vest.webp' width='50px' height='50px'>",
+      "1w 0d 9h 23m 56s"
+    ],
+    [
+      "Saturday Night Vest",
+      "86",
+      "Disco Ball Seed",
+      "Golden Block Seed",
+      "<img src='img/rarity/86/Saturday Night Vest.webp' width='50px' height='50px'>",
+      "1w 0d 9h 23m 56s"
+    ],
+    [
+      "Tommygun",
+      "87",
+      "Time-Space Rupture Seed",
+      "Death Spikes Seed",
+      "<img src='img/rarity/87/Tommygun.webp' width='50px' height='50px'>",
+      "1w 0d 15h 38m 33s"
+    ],
+    [
+      "War Paint",
+      "87",
+      "Fire Escape Seed",
+      "Tomato Seed",
+      "<img src='img/rarity/87/War Paint.webp' width='50px' height='50px'>",
+      "1w 0d 15h 38m 33s"
+    ],
+    [
+      "Crimefighter Mask - Blue",
+      "88",
+      "Gateway To Adventure Seed",
+      "Rainbow Block Seed",
+      "<img src='img/rarity/88/Crimefighter Mask - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Crimefighter Mask - Green",
+      "88",
+      "Gateway To Adventure Seed",
+      "Rainbow Block Seed",
+      "<img src='img/rarity/88/Crimefighter Mask - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Crimefighter Mask - Purple",
+      "88",
+      "Gateway To Adventure Seed",
+      "Rainbow Block Seed",
+      "<img src='img/rarity/88/Crimefighter Mask - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Crimefighter Mask - Red",
+      "88",
+      "Gateway To Adventure Seed",
+      "Rainbow Block Seed",
+      "<img src='img/rarity/88/Crimefighter Mask - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Heroic Boots - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Heroic Boots - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Heroic Boots - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Heroic Boots - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Heroic Boots - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Heroic Boots - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Heroic Boots - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Heroic Boots - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Heroic Tights  - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Heroic Tights - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Heroic Tights  - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Heroic Tights - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Heroic Tights - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Heroic Tights - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Heroic Tights - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Heroic Tights - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Muscle Shirt - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Muscle Shirt - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Muscle Shirt - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Muscle Shirt - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Muscle Shirt - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Muscle Shirt - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Muscle Shirt - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Muscle Shirt - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Spatula",
+      "88",
+      "Stove Seed",
+      "Picket Fence Seed",
+      "<img src='img/rarity/88/Spatula.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Cape - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Cape - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Cape - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Cape - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Cape - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Cape - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Cape - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Cape - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Eye Mask - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Eye Mask - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Eye Mask - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Eye Mask - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Eye Mask - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Eye Mask - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Eye Mask - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Eye Mask - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Shirt - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Shirt - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Shirt - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Shirt - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Shirt - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Shirt - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Shirt - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Shirt - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Tights - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Tights - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Tights - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Tights - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Tights - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Tights - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Tights - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Super Tights - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ], 
+    [
+      "Super Utility Boots - Red",
+      "88",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/88/Super Utility Boots - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Utility Boots - Yellow",
+      "88",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/88/Super Utility Boots - Yellow.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+     [
+      "Super Utility Helmet - Red",
+      "88",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/88/Super Utility Helmet - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Utility Helmet - Yellow",
+      "88",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/88/Super Utility Helmet - Yellow.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Utility Shirt - Red",
+      "88",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/88/Super Utility Shirt - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Utility Shirt - Yellow",
+      "88",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/88/Super Utility Shirt - Yellow.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Utility Tights - Red",
+      "88",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/88/Super Utility Tights - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Super Utility Tights - Yellow",
+      "88",
+      "unsplicable",
+      "unsplicable",
+      "<img src='img/rarity/88/Super Utility Tights - Yellow.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Superhero Mask - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Superhero Mask - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Superhero Mask - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Superhero Mask - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Superhero Mask - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Superhero Mask - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Superhero Mask - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Superhero Mask - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+        [
+      "Superheroine Top - Blue",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Superheroine Top - Blue.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Superheroine Top - Green",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Superheroine Top - Green.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Superheroine Top - Purple",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Superheroine Top - Purple.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Superheroine Top - Red",
+      "88",
+      "Rainbow Block Seed",
+      "Gateway To Adventure Seed",
+      "<img src='img/rarity/88/Superheroine Top - Red.webp' width='50px' height='50px'>",
+      "1w 0d 22h 1m 52s"
+    ],
+    [
+      "Cybernetic Arm",
+      "89",
+      "Steel Girder Seed",
+      "Boombox Seed",
+      "<img src='img/rarity/89/Cybernetic Arm.webp' width='50px' height='50px'>",
+      "1w 1d 4h 33m 59s"
+    ],
+    [
+      "Parasol",
+      "89",
+      "Clouds Seed",
+      "Fire Hydrant Seed",
+      "<img src='img/rarity/89/Parasol.webp' width='50px' height='50px'>",
+      "1w 1d 4h 33m 59s"
+    ],
+    [
+      "Pinstripe Pants",
+      "89",
+      "Time-Space Rupture Seed",
+      "Stripey Wallpaper Seed",
+      "<img src='img/rarity/89/Pinstripe Pants.webp' width='50px' height='50px'>",
+      "1w 1d 4h 33m 59s"
+    ],
+    [
+      "Cultist Hood",
+      "90",
+      "Sacrifice any item with a rarity of 90 or above to Growganoth.",
+      "Dominatus Moderateus (×1),Purple Block (×20) and Transmog Crystal (×1).",
+      "<img src='img/rarity/90/Cultist Hood.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Cultist Robe",
+      "90",
+      "Sacrifice any item with a rarity of 90 or above to Growganoth.",
+      "Growch Cultist Robe (×1), Purple Block (×20) and Transmog Crystal (×1).",
+      "<img src='img/rarity/90/Cultist Robe.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Dominatus Moderateus",
+      "90",
+      "unsplicable",
+      "Cultist Hood (×1),White Block (×20) and Transmog Crystal (×1).",
+      "<img src='img/rarity/90/Dominatus Moderateus.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Growch Cultist Robe",
+      "90",
+      "unsplicable",
+      "Cultist Robe (×1),Snowball (×20) and ",
+      "<img src='img/rarity/90/Growch Cultist Robe.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Headsman's Hood",
+      "90",
+      "unsplicable ",
+      "Sacrifice any item with a rarity of 90 or above to Growganoth.",
+      "<img src='img/rarity/90/Headsmans Hood.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Leather Jacket",
+      "90",
+      "Cow Seed",
+      "Deep Rock Seed",
+      "<img src='img/rarity/90/Leather Jacket.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Minotaur Mask",
+      "90",
+      "Buffalo Seed",
+      "Deep Sand Seed",
+      "<img src='img/rarity/90/Minotaur Mask.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Nightmare Vampiress Dress",
+      "90",
+      "unsplicable ",
+      "Sacrifice any item with a rarity of 90 or above to Growganoth.",
+      "<img src='img/rarity/90/Nightmare Vampiress Dress.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Vampiress Dress",
+      "90",
+      "unsplicable",
+      "Sacrifice any item with a rarity of 90 or above to Growganoth.",
+      "<img src='img/rarity/90/Vampiress Dress.webp' width='50px' height='50px'>",
+      "1w 1d 11h 15m 0s"
+    ],
+    [
+      "Fire Hose",
+      "93",
+      "Toilet Seed",
+      "Lazy Cobra Seed",
+      "<img src='img/rarity/93/Fire Hose.webp' width='50px' height='50px'>",
+      "1w 2d 8h 12m 27s"
+    ],
+    [
+      "Butterfly Hair Pin",
+      "94",
+      "Path Marker Seed",
+      "Robot Wants Dubstep Seed",
+      "<img src='img/rarity/94/Butterfly Hair Pin.webp' width='50px' height='50px'>",
+      "1w 2d 15h 30m 4s"
+    ],
+    [
+      "Fishing Rod",
+      "94",
+      "Adventure Item - Rope Seed",
+      "Sequoia Tree Seed",
+      "<img src='img/rarity/94/Fishing Rod.webp' width='50px' height='50px'>",
+      "1w 2d 15h 30m 4s"
+    ],
+    [
+      "Crimson Eagle Wings",
+      "95",
+      "Red Wallpaper Seed",
+      "Blue Wallpaper Seed",
+      "<img src='img/rarity/95/Crimson Eagle Wings.webp' width='50px' height='50px'>",
+      "1w 2d 22h 57m 5s"
+    ],
+    [
+      "Black Beret",
+      "96",
+      "The Darkness Seed",
+      "Jellyfish Seed",
+      "<img src='img/rarity/96/Black Beret.webp' width='50px' height='50px'>",
+      "1w 3d 6h 33m 36s"
+    ],
+    [
+      "Crazy Zombie Hair",
+      "96",
+      "Lazy Cobra Seed",
+      "Mutated Seed",
+      "<img src='img/rarity/96/Crazy Zombie Hair.webp' width='50px' height='50px'>",
+      "1w 3d 6h 33m 36s"
+    ],
+    [
+      "Ripper Wings",
+      "96",
+      "Devil Horns Seed",
+      "Chandelier Seed",
+      "<img src='img/rarity/96/Ripper Wings.webp' width='50px' height='50px'>",
+      "1w 3d 6h 33m 36s"
+    ],
+    [
+      "Ghost Costume",
+      "97",
+      "unsplicable ",
+      "Sacrifice Any item of rarity 97 or above to Growganoth.",
+      "<img src='img/rarity/97/Ghost Costume.webp' width='50px' height='50px'>",
+      "1w 3d 14h 19m 43s"
+    ],
+    [
+      "Skull Launcher",
+      "97",
+      "Mutated Seed ",
+      "Tommygun Seed",
+      "<img src='img/rarity/97/Skull Launcher.webp' width='50px' height='50px'>",
+      "1w 3d 14h 19m 43s"
+    ],
+    [
+      "Sarong",
+      "98",
+      "Purple Wallpaper Seed",
+      "Golden Block Seed",
+      "<img src='img/rarity/98/Sarong.webp' width='50px' height='50px'>",
+      "1w 3d 22h 15m 32s"
+    ],
+    [
+      "Battle Leash",
+      "100",
+      "Battle Pet Cage Seed",
+      "Gem Sign Seed",
+      "<img src='img/rarity/100/Battle Leash.webp' width='50px' height='50px'>",
+      "1w 4d 14h 36m 40s"
+    ]
+    
+  ]
+}
