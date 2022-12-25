@@ -3215,6 +3215,14 @@
       "Gem Sign Seed",
       "<img src='img/rarity/100/Battle Leash.webp' width='50px' height='50px'>",
       "1w 4d 14h 36m 40s"
+    ],
+    [
+      "Red Formal Dress",
+      "100",
+      "Dark Red Wallpaper Seed",
+      "Sheet Music: Flat Sax Seed",
+      "<img src='img/rarity/100/Red Formal Dress.webp' width='50px' height='50px'>",
+      "1w 4d 14h 36m 40s"
     ]
     
   ]
