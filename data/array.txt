@@ -1505,6 +1505,14 @@
       "1d 11h 8m 20s"
     ],
     [
+      "Plain White Tee",
+      "50",
+      "White Block Seed",
+      "White Wallpaper Seed",
+      "<img src='img/rarity/50/Plain White Tee.webp' width='50px' height='50px'>",
+      "1d 11h 8m 20s"
+    ],
+    [
       "Cosmic Skirt",
       "51",
       "Starseed",
