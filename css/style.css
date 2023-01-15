@@ -35,3 +35,7 @@ button.navbar-toggler{
     color: white;
 }
 
+.nav-link:hover{
+    background-color: #619efa;
+}
+
