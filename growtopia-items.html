@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" type="text/css" href="DataTables-1.12.1/datatables.min.css"/>
     <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css"/>
- 
+
     <script type="text/javascript" src="DataTables-1.12.1/datatables.min.js"></script>
     <script type="text/javascript" src="jquery/jquery-3.5.1.js"></script>
     <script type="text/javascript" src="jquery/jquery.dataTables.min.js"></script>
@@ -17,7 +17,7 @@
     <script src="js/scripts.js"></script>
     <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="sweetalert/dist/sweetalert.min.js"></script>
- 
+
     <title>Growtopia Items</title>
 </head>
 <!-- Navigation -->
@@ -37,8 +37,8 @@
           </li>
           <li class="nav-item dropdown">
 
-            <a class="nav-link dropdown-toggle" role="button" 
-            data-bs-toggle="dropdown" aria-expanded="false" 
+            <a class="nav-link dropdown-toggle" role="button"
+            data-bs-toggle="dropdown" aria-expanded="false"
             href="#">About</a>
             <ul class="dropdown-menu dropdown-menu-dark" style="text-align: center;">
               <li><a class="dropdown-item" href="boss-quest.html">Boss Quest</a></li>
@@ -55,48 +55,48 @@
 
 
   <header class="py-1" style="position: relative; color: white; text-shadow: 1px 1px black;">
-   
+
     <div class="container text-center">
-   
+
       <h1 class="fw-light"> <h3>
         <i>
             <b>Growtopia </b>
-        </i> 
+        </i>
         Items
-       
+
         <small>(wearable)</small></h3></h1>
-    
-    
+
+
     </div>
-  
+
 </header>
- 
+
 <style>
-  td,th,input{ 
+  td,th,input{
     background-color: rgba(136, 128, 128, 0.397);
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
     font-weight:1em;
     text-size-adjust: 1;
     color: rgb(196, 196, 196);
-    
+
 }
-  .paginate_button{ 
+  .paginate_button{
     color: white;
   }
-  .dataTables_paginate.paging_simple_numbers{ 
+  .dataTables_paginate.paging_simple_numbers{
     color: white;
     background-color: gray;
-    opacity: 50%;  
+    opacity: 50%;
   }
-</style>  
-<body> 
+</style>
+<body>
 
     <div class="container" style="border:solid 1px rgb(155, 152, 152); padding: 10px;">
         <div class="row">
           <div class="col-xs-12" style="padding: 10px;">
-            <table 
-                id="example" class="display hover striped" style="width: 100%;"> 
+            <table
+                id="example" class="display hover striped " >
 
                 <thead>
                     <tr>
@@ -118,54 +118,54 @@
                         <th>Info</th>
                     </tr>
                 </tfoot>
-           
+
             </table>
           </div>
-         
+
         </div>
       </div>
 <br>
-    
+
 </body>
 <footer class="text-center">
     <p class="lead text-center" style="color: white; text-shadow: 1px 1px black;">Data reference:
-    <a href="https://growtopia.fandom.com/" target="_blank"> <small>https://growtopia.fandom.com/</small></a>
+    <a href="https://growtopia.fandom.com/wiki/Items_By_Rarity?so=search" target="_blank"> <small>https://growtopia.fandom.com/</small></a>
   </p>
 </footer>
 </html>
 
-<script>   
+<script>
 $(document).ready(function () {
     var table = $('#example').DataTable({
         ajax: 'data/array.txt',
-        scrollY:        "599px",   
+        scrollY:        "599px",
         scrollX:        true,
         scrollCollapse: true,
-        paging:         true, 
+        paging:         true,
         columnDefs: [
             {
                 targets: -1,
                 data: null,
-                
+
                 columnDefs: [
             { width: '100%', targets: 0 }
         ],
         fixedColumns: true,
                 defaultContent: '<button class="btn btn-outline-info">Info</button>',
             },
-        ], 
+        ],
     });
- 
+
     $('#example tbody').on('click', 'button', function () {
         var data = table.row($(this).parents('tr')).data();
         swal(""+data[0]+"\n ",
-               
+
                 "Rarity: " + data[1] +" \n"+
                 "Splice/Mix(1st): " + data[2] +" \n"+
                 "Splice/Mix(2nd): " + data[3] +" \n"+
                 "Grow Time: "  + data[5] +" \n"
-                
-                ,"info",{button: "Back",}); 
+
+                ,"info",{button: "Back",});
 
     });
 });
